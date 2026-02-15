@@ -44,3 +44,9 @@ git checkout commit_id
 get checkout main
 git checkout branch_name
 ```
+
+# Github issues
+## go github repository settings and add collaboration than add team member
+### set rules when add colloborator
+** make issue and select user and set label enhancement for new feature or bug or duplicate or documentation
+** add #id than same issue solve **
