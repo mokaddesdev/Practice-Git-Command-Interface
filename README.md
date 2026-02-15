@@ -20,5 +20,18 @@
 # Git Command Line
 ```
 git config
+git config --help
+git add .
+git restore .
+git commit -m "message"
+git push -u origin main
+git log
+git log --oneline
+git diff
+git reset --soft commit_id
+git reset --hard commit_id
+git status
+git checkout commit_id
+get checkout main
+git checkout branch_name
 ```
-
