@@ -1,14 +1,16 @@
 # Git and GitHub
 ## Git
+![git](images/git.png)
 ## Git =>Git is a tool version control or software
-    - Version control system
-    - Keep track of changes
-    - Collabration on project
+- Version control system
+- Keep track of changes
+- Collabration on project
 ### Others
-    - Githlab
-    - Breanstalk
-    - PerForce
-    - Bitbucket
+- Githlab
+- Breanstalk
+- PerForce
+- Bitbucket
+
 # Differnce between Git and Github
 | Git | Github |
 |---------|---------|
@@ -17,8 +19,15 @@
 | Provides CLI( Command line interface Tool)| Provides GUI Interface |
 | Installed and maintained locally| maintained on cloud / web |
 
-# Git Command Line
+_underline text_
+
+Normal text
+
+```html
+<h1>Test</h1>
 ```
+# Git Command Line
+```command
 git config
 git config --help
 git add .
